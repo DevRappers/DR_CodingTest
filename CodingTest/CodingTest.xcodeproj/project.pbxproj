@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D06AF125235FC94000C8D778 /* sort8.c in Sources */ = {isa = PBXBuildFile; fileRef = D06AF124235FC94000C8D778 /* sort8.c */; };
+		D06AF12E235FE29600C8D778 /* sort11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D06AF12B235FDEB200C8D778 /* sort11.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,9 @@
 
 /* Begin PBXFileReference section */
 		D06AF124235FC94000C8D778 /* sort8.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sort8.c; sourceTree = "<group>"; };
+		D06AF126235FDAE900C8D778 /* sort9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort9.cpp; sourceTree = "<group>"; };
+		D06AF128235FDD2800C8D778 /* sort10.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort10.cpp; sourceTree = "<group>"; };
+		D06AF12B235FDEB200C8D778 /* sort11.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sort11.cpp; sourceTree = "<group>"; };
 		D0E3681C235E783900E6A30A /* CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E3681F235E783900E6A30A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		D0E3682C235E7DAD00E6A30A /* sort1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sort1.c; sourceTree = "<group>"; };
@@ -74,6 +77,9 @@
 				D0E36837235E9D4300E6A30A /* sort6.c */,
 				D0E36839235E9E2000E6A30A /* sort7.c */,
 				D06AF124235FC94000C8D778 /* sort8.c */,
+				D06AF126235FDAE900C8D778 /* sort9.cpp */,
+				D06AF128235FDD2800C8D778 /* sort10.cpp */,
+				D06AF12B235FDEB200C8D778 /* sort11.cpp */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -135,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D06AF125235FC94000C8D778 /* sort8.c in Sources */,
+				D06AF12E235FE29600C8D778 /* sort11.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
